@@ -1,0 +1,10 @@
+{
+  "StarshipConfitSchema": {
+    "Name": "string",
+    "Class": "string",
+    "Drive": "string",
+    "InfiniteImprobabilityEnabled": "bool",
+    "Destination": "string",
+    "Crew": "[]string"
+  }
+}

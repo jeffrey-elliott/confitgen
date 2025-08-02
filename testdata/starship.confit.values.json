@@ -1,0 +1,14 @@
+{
+    "Name": "Heart of Gold",
+    "Class": "Prototype",
+    "Drive": "Infinite Improbability",
+    "InfiniteImprobabilityEnabled": true,
+    "Destination": "Milliways",
+    "Crew": [
+        "Zaphod Beeblebrox",
+        "Arthur Dent",
+        "Ford Prefect",
+        "Trillian",
+        "Marvin"
+    ]
+}

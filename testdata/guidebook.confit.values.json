@@ -1,0 +1,29 @@
+{
+  "Display": {
+    "Language": "Galactic Basic",
+    "FontSize": 42,
+    "Theme": "panic-free-blue"
+  },
+  "Entries": {
+    "MaxResults": 7,
+    "SortOrder": "alphabetical",
+    "FilterVogonity": true
+  },
+  "Narration": {
+    "Voice": "Stephen Fry",
+    "SarcasmLevel": 11,
+    "Britishness": 0.98
+  },
+  "SafetyProtocols": {
+    "WarnOnVogonPoetry": true,
+    "AutoTowelReminder": true,
+    "PanicSuppression": true
+  },
+  "InstalledModules": [
+    "TowelTracker",
+    "BabelFishFinder",
+    "EmergencyTeaProtocol",
+    "InfiniteImprobabilityCalc",
+    "HitchhikerSocialFeed"
+  ]
+}

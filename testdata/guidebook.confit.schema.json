@@ -1,0 +1,25 @@
+{
+  "GuidebookConfitSchema": {
+    "Display": {
+      "Language": "string",
+      "FontSize": "int",
+      "Theme": "string"
+    },
+    "Entries": {
+      "MaxResults": "int",
+      "SortOrder": "string",
+      "FilterVogonity": "bool"
+    },
+    "Narration": {
+      "Voice": "string",
+      "SarcasmLevel": "int",
+      "Britishness": "float64"
+    },
+    "SafetyProtocols": {
+      "WarnOnVogonPoetry": "bool",
+      "AutoTowelReminder": "bool",
+      "PanicSuppression": "bool"
+    },
+    "InstalledModules": "[]string"
+  }
+}
